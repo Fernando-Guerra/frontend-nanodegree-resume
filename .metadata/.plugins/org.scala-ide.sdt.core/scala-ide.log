@@ -1,0 +1,5 @@
+2015-03-09 10:16:04,632 ERROR [Worker-3] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-03-09 10:16:04,632 ERROR [Worker-3] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-03-09 10:16:04,632 ERROR [Worker-3] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-03-09 10:16:17,184 ERROR [main] - System.err - log4j:WARN No appenders could be found for logger (org.springsource.ide.eclipse.commons.core.templates.TemplateProcessor).
+2015-03-09 10:16:17,185 ERROR [main] - System.err - log4j:WARN Please initialize the log4j system properly.
