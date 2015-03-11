@@ -16,3 +16,9 @@ var funThoughts = awesomeThoughts.replace("AWESOME", "FUN");
 Selector of Jquery to show the results in the browser
 $("#main").append(funThoughts);
 */
+
+var formattedName = HTMLheaderName.replace("%data%", "Fernando Cabezas");
+var formattedRole = HTMLheaderRole.replace("%data%","Developer");
+
+$("#header").prepend(formattedName);
+$("#header").append(formattedRole);
