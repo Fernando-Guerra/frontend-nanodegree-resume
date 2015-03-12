@@ -1,7 +1,7 @@
 // $("#main").append("Fernando Guerra");
 
  
-/*This replace a string with other
+/*String y su Comportamiento
 [string].replace([old], [new])
 
 var email = "fernando.cabezas@loyalfeel.com";
@@ -17,21 +17,25 @@ Selector of Jquery to show the results in the browser
 $("#main").append(funThoughts);
 */
 
-/*var formattedName = HTMLheaderName.replace("%data%", "Fernando Cabezas");
+/* String y su Comportamiento
+
+var formattedName = HTMLheaderName.replace("%data%", "Fernando Cabezas");
 var formattedRole = HTMLheaderRole.replace("%data%","Developer");
 
 $("#header").prepend(formattedName);
 $("#header").append(formattedRole);*/
 
+/*Arrays y su Comportamiento
 
+var skills = ["Programming ", "Database ", "Robotics "];
 
-//$("#main").append(skills);
+$("#main").append(skills);
 
-//$("#main").append(skills[0]);
+$("#main").append(skills[0]);
 
-//$("#main").append(skills.length);
+$("#main").append(skills.length);*/
 
-/* Objetos y Comportamiento
+/* Objetos y su Comportamiento
 
 var bio = {
 	"name" : "Fernando Cabezas",
