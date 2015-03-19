@@ -76,7 +76,7 @@ $("#main").append(education.lastSchool);
 
 */
 
-//Mi primer JSON
+/*Mi primer JSON
 
 var education = {
 	"schools": [
@@ -107,3 +107,5 @@ var education = {
 		}
 	]
 }
+*/
+
