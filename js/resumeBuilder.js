@@ -75,3 +75,35 @@ $("#main").append(work["jobPosition"]);
 $("#main").append(education.lastSchool);
 
 */
+
+//Mi primer JSON
+
+var education = {
+	"schools": [
+		{
+			"name": "Miguel Antonio Caro",
+			"location": "Caracas",
+			"degree": "Bachiller en Procesamiento de Datos",
+			"majors": ["Ciencias basicas", "Computacion"],
+			"dates": 2009,
+			"url": "www.miguelantonio.com"
+		},
+		{
+			"name": "Instituto Universitario Jesus Obrero",
+			"location": "Caracas",
+			"degree": "T.S.U. en Informatica",
+			"major": ["Informatica"],
+			"dates": 2012,
+			"url": "www.iujo.com"
+		}
+	],
+	
+	"onlineCourses":[
+		{
+			"title": "JavaScript Syntax",
+			"school": "Udacity",
+			"dates": 2015,
+			"url": "https://www.udacity.com/course/viewer#!/c-ud804/l-1930528550/e-1950678559/m-1936858588"
+		}
+	]
+}
